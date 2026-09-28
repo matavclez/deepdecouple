@@ -52,7 +52,7 @@ Same architecture as CV-Hybrid, with batch-wise QR orthogonalisation of the neur
 
 ## Reproducibility
 
-This repository provides the core model implementations and a minimal usage example. The full experimental pipeline used to generate the results reported in the paper is not included in this demonstration repository.
+This repository provides the core model implementations and a usage example.
 
 ## Citation
 
