@@ -1,0 +1,49 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Notebooks and checkpoints (not part of this demo repo)
+.ipynb_checkpoints/
+*.ipynb
+
+# Model artefacts / experiment outputs
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.parquet
+outputs/
+results/
+logs/
+checkpoints/
+keras_tuner/
+**/tuner_*/
+
+# Local secrets
+.env.*
+*.pem
+credentials*
+tokens*
